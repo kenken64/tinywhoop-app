@@ -98,10 +98,10 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 This project was done by:
 
-Sim Yizhun - https://github.com/YizhunSim  
-Daryl Goh - https://github.com/daryl-goh  
+Kenneth Phang - https://github.com/kenken64  
 
-Project Link: [https://github.com/daryl-goh/tinywhoopproject](https://github.com/daryl-goh/tinywhoopproject)
+
+Project Link: [https://github.com/kenken64/tinywhoop-app](https://github.com/kenken64/tinywhoop-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

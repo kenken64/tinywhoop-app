@@ -37,6 +37,7 @@ create table laps (
 	lap_id int auto_increment not null,
     pilot_id char(8) not null,
     race_id int not null,
+    heatno int not null,
     time decimal(4,2),
     primary key (lap_id),
     foreign key (pilot_id) references pilot (pilot_id) ON DELETE CASCADE,

@@ -40,6 +40,11 @@ public class Queries {
         public static final String SQL_INSERT_PILOT = """
                 INSERT INTO pilot (pilot_id, pilot_name, drone_name) VALUES (? ,?, ?);
                 """;
+
+
+        public static final String SQL_INSERT_LAP = """
+                INSERT INTO lap (pilot_id, pilot_name, drone_name) VALUES (? ,?, ?);
+                """;
         public static final String SQL_UPDATE_RACECOURSE = """
                 UPDATE race_details rd
                 JOIN race r
